@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Christopher Torres-Lugo",
+    "email": "christorreslugo@gmail.com",
+    "phone": "",
+    "website": "https://christorreslugo.github.io",
+    "summary": "Co-Founder & CTO at Coalesce Finance. Previously Data Scientist at TRM Labs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "IL"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "ChrisTorresLugo",
+        "url": "https://x.com/ChrisTorresLugo"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=FmhLgVQAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0001-6102-483X",
+        "url": "https://orcid.org/0000-0001-6102-483X"
+      },
+      {
+        "network": "GitHub",
+        "username": "ChrisTorresLugo",
+        "url": "https://github.com/ChrisTorresLugo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "christorreslugo",
+        "url": "https://www.linkedin.com/in/christorreslugo/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Coalesce Finance",
+      "position": "Co-Founder & CTO",
+      "website": "https://coalesce.finance",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Developer of CoalesceFi, a Solana-based onchain credit platform based on Solend (accelerated by Alliance.xyz).",
+      "highlights": []
+    },
+    {
+      "company": "TRM Labs",
+      "position": "Data Scientist",
+      "website": "https://www.trmlabs.com",
+      "startDate": "2022-05-01",
+      "endDate": "2024-12-01",
+      "summary": "Owned heuristics and models for account-based blockchains supporting transaction monitoring and wallet screening.",
+      "highlights": [
+        "Increased labeled address coverage by hundreds of millions of labels across dozens of blockchains.",
+        "Led cross-team attribution projects (including Garantex and Nobitex) improving sanctions attribution coverage.",
+        "Collaborated across technical and non-technical teams to deliver intelligence to customers."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University Bloomington",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Puerto Rico-Mayagüez",
+      "area": "Computer Engineering",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Puerto Rico, Río Piedras",
+      "area": "Program Administration",
+      "studyType": "M.P.A.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Puerto Rico at Bayamón",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Blockchain Analytics",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
